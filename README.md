@@ -1,6 +1,6 @@
 # PortfolioProjects
 
-The Portfolio Projects are a series of exercises that I take to improve my data analysis skills. Beginning with data exploration, I will be moving on to data cleaning and then eventually data visualisation. 
+The Portfolio Projects are a series of exercises that I take to improve my data analysis skills. Beginning with data exploration, I will be moving on to data cleaning and then eventually visualisation. 
 
 ## Data Exploration
 
